@@ -5,7 +5,7 @@ contributors = ["showbizbetadudue"]
 +++
 **Everyone: **
 School Days, School Days, Dear Old Golden Rule Day's 
-** [Piano Play's For 7 Secon's] **
+** [Piano Play's For 7 Second's] **
 ** [Guitar Solor For 12 Second's] **
 **Fatz: (singing)**
 Ring Ring  Goes the Bell
@@ -39,7 +39,7 @@ Ding Dang Bop Ioop
 **Everyone: (singing)**
 School Day's
 **Fatz: (talking)**
-If That Don't Bring a Smile to Your Baby Face
+If That Don't Bring a Smile to Your Face
 Just Think of My Baby Face 
 Ha-Ha 
 
