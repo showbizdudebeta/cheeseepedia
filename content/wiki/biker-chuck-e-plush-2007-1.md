@@ -8,10 +8,10 @@ manufacturer = "0000-00-00"
 tags = ["In-Store Merchandise"]
 categories = ["Chuck E. Cheese's"]
 +++
-This Chuck E Cheese Plush would feature in the Prize counter area in 2007 
+This Chuck E Cheese Plush would feature in the Prize counter area in 2007, 
 
-It Featured Chuck E. with sunglasses, a red headband and a rare USA one sometimes 
+It Featured Chuck E. with sunglasses, a red headband and a rare USA one sometimes, 
 
-it had a black jacket and jeans too 
+it had a black jacket and jeans too,
 
 It also featured Chuck E Smiling 
