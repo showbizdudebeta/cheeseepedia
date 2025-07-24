@@ -1,14 +1,14 @@
 +++
-title = "Ann Arbor, MI (2655 Oak Valley Dr)"
 draft = false
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+title = "Ann Arbor, MI (2655 Oak Valley Dr)"
 startDate = "2000-11-02"
 endDate = "2020-12-02"
-contributors = ["CECBowlingGreen","Rexburg090","2600:1700:8790:12F0:F567:8EFC:9DB6:7416","76.218.16.5","Cheeseclassic","ThatBoiCydalan"]
-citations = []
 pageThumbnailFile = "RFqhTtN94N4RiQc2spY_.avif"
-latitudeLongitude = ["42.24621377","-83.76971763"]
+contributors = ["CECBowlingGreen", "Rexburg090", "2600:1700:8790:12F0:F567:8EFC:9DB6:7416", "76.218.16.5", "Cheeseclassic", "ThatBoiCydalan"]
+citations = ["YouTube "]
+latitudeLongitude = ["42.24621377", "-83.76971763"]
+tags = ["Locations"]
+categories = ["Chuck E. Cheese's"]
 +++
 **2655 Oak Valley Dr, Store #334** was a Chuck E. Cheese's that opened on November 2, 2000 with a Studio C Alpha, which closed on December 2, 2020.
 This location received the 16M Chuck E. animatronic from the Muskegon, Michigan store in June 2020, essentially turning it into a Studio C Alpha, 16M.
@@ -45,10 +45,15 @@ TODO
 
 ## Youtube Videos
 
-TODO
+
 
   Link   Title   Published / Filming Date   Credit To
   ------ ------- -------------------------- -----------
-                                            
+    https://www.youtube.com/watch?v=_PArBjDvKxQ
+    Chuck E. Cheese's Pizza Ann Arbor, MI Advertisement
+    September 26th 2009
+   AnimationAmongUs
+     
+                                     
                                             
                                             
