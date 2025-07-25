@@ -11,12 +11,12 @@ categories = ["Chuck E. Cheese's"]
 The **2002 Surfer Chuck E Plush** was a official product for the prize counters in 2002 by 
 Dennis Folland Inc. 
 
-##Production 
+## Production 
 
 This Plush was apart of Dennis Folland Inc's Limited Edition set of the original 2001 plushies 
 The Limited Edition Set For 2001-2010 introduced the first time Chuck E Cheese & Dennis Folland Inc. did Limited Edition plushies 
 
-###  Prototype's
+### Prototype's
 
 A prototype of this plushie does not exist because this plushie was already done by the time summer 2002 rolled around 
 
