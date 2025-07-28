@@ -18,4 +18,4 @@ Over the years, this poster would become very rare to find in stores nationwide 
 
 ## Design 
 
-The poster is a parody of the band Rolling Stones with all the Munch, Jasper, Helen & Pasqually in the back and Chuck E. in the front, on the bottom of the poster it read's Live In Concert  
+The poster is a parody of the band Rolling Stones with  Munch, Jasper, Helen & Pasqually in the back and Chuck E. in the front, on the bottom of the poster it read's Live In Concert  
