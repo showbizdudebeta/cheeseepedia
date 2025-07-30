@@ -5,7 +5,7 @@ startDate = "1991-00-00"
 endDate = "0000-00-00"
 pageThumbnailFile = ""
 contributors = ["showbizdudebeta"]
-citations = ["YouTube "]
+citations = ["YouTube ", "https://www.youtube.com/watch?v=7gmN_G7G5OU&t=181s"]
 tags = ["Company Media"]
 categories = ["Chuck E. Cheese's"]
 +++
