@@ -10,7 +10,7 @@ tags = ["Company Media"]
 categories = ["Chuck E. Cheese's"]
 +++
 The ***Chuck E Cheese University : General Kitchen & Service* was a Chuck E. Cheese training tape made for Chuck  E Cheese's in 1991, this would be the 2nd training tape for Chuck E Cheese’s University, it would feature the following 
-                Service : 
+                  Service : 
 Every guest comes first and and leaves happy
 Smile, greet and assist the customer
 Teamwork
