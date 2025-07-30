@@ -9,7 +9,7 @@ citations = ["YouTube ", "https://www.youtube.com/watch?v=7gmN_G7G5OU&t=181s"]
 tags = ["Company Media"]
 categories = ["Chuck E. Cheese's"]
 +++
-The ***Chuck E Cheese University : General Kitchen & Service* was a Chuck E. Cheese training tape made for chuck e cheese in 1991, this would be the 2nd training tape for Chuck E Cheese’s University, it would feature the following 
+The ***Chuck E Cheese University : General Kitchen & Service* was a Chuck E. Cheese training tape made for Chuck  E Cheese's in 1991, this would be the 2nd training tape for Chuck E Cheese’s University, it would feature the following 
         Service : 
 Every guest comes first and and leaves happy
 Smile, greet and assist the customer
@@ -40,3 +40,5 @@ Proper Inventory control
 Product Rotation ( new to the back, old to the front, new to the bottom old to the front ) 
 Changing out the soda syrup 
 Pan cleaning 
+
+
