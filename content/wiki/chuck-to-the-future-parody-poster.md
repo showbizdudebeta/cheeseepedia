@@ -18,6 +18,6 @@ Over the years, this poster would become very rare to find in stores nationwide 
 
 ## Design
 
-The poster is a parody of the 1988 film Back To The Future with Chuck E. as Marty McFly and Pasqually as Doc Brown. in the top right of the poster there's a poem that reads "He was never in time for his shows"
-"He was never in time for his dinner"
-"Then one day he wasn't in his time at all. 
+The poster is a parody of the 1988 film Back To The Future with Chuck E. as Marty McFly and Pasqually as Doc Brown. in the top right of the poster there's a poem that reads "He was never in time for his shows...
+"He was never in time for his dinner...
+"Then one day he wasn't in his time at all...
