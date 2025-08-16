@@ -56,6 +56,4 @@ Oh yeah.
 **Chuck E. Cheese: (singing)**
 There is, just look around you and see it, I see you, Give me some of that rubix cube
 
-THANK YOU CHUCK E CHEESE FOR EVERYTHING 
 
-I WII ALWAYSSSS LOVE YOU AVENGER CHUCK
