@@ -13,7 +13,8 @@
 
 
 {{- $pages := .Site.RegularPages -}}
-<div id="tagsContainer">
+<div id="loadingText" class="loading-text">Loading. . .</div>
+<div id="tagsContainer" style="visibility:hidden;">
   {{- $tags := dict -}} <!-- Initialize a dictionary to store tags and counts -->
   {{- range $pages -}}
   {{- $currentPage := . -}}
@@ -92,3 +93,14 @@
     </ul>
   </div>
 </div>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Once the DOM is ready, flip visibility for the first set
+    var loading = document.getElementById("loadingText");
+    var tags = document.getElementById("tagsContainer");
+    if (loading && tags) {
+      loading.style.visibility = "hidden";
+      tags.style.visibility = "visible";
+    }
+  });
+</script>
